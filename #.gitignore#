@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+django_learn
+db.sqlite3
+/static
+.DS_Store
+
+
+appid:0oa1bcy75y2ZtGBhs1d8
+group id:00g1bcy4kbdNG0WTl1d8
